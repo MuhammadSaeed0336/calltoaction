@@ -1,0 +1,21 @@
+{
+  "name": "calltoatction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "google-spreadsheet": "^3.0.8",
+    "googleapis": "^130.0.0",
+    "nodemon": "^3.0.2",
+    "socket.io": "^4.7.3"
+  }
+}
